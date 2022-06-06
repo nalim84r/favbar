@@ -1,3 +1,3 @@
 # taschenrechner
 
-# zum lernen der Programmiersprache Python
+zum lernen der Programmiersprache Python
