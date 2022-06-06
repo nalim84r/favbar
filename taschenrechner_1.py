@@ -32,7 +32,7 @@ etEingabe1.grid(row=1, column=0,padx=5, pady=5)
 etEingabe2 = tkinter.Entry(fenster)
 etEingabe2.grid(row=2, column=0,padx=5, pady=5)
 
-buMulti = tkinter.Button(fenster, text="", command=multiplizieren,width=10)
+buMulti = tkinter.Button(fenster, text="multiplizieren", command=multiplizieren,width=10)
 buMulti.grid(row=3, column=0,sticky="w",padx=5, pady=5)
 
 lbAusgabe = tkinter.Label(fenster,text="...multiplizieren wir!")
